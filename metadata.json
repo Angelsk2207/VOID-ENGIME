@@ -1,0 +1,7 @@
+{
+  "name": "VOID ENGINE - Pesquisa de Pavor",
+  "description": "Gerador de terror imersivo com interface de voz para acessibilidade total.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

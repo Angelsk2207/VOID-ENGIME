@@ -1,0 +1,17 @@
+
+{
+  "short_name": "Histórias Terror",
+  "name": "Gerador de Histórias de Terror",
+  "description": "Crie histórias de terror aterrorizantes e roteiros cinematográficos com o poder da IA. Basta fornecer uma ideia e deixar a escuridão inspirar a criatividade.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#991b1b",
+  "background_color": "#111827"
+}
